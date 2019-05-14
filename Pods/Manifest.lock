@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.8.1)
+  - GoogleMaps (3.0.3):
+    - GoogleMaps/Maps (= 3.0.3)
+  - GoogleMaps/Base (3.0.3)
+  - GoogleMaps/Maps (3.0.3):
+    - GoogleMaps/Base
+  - IQKeyboardManagerSwift (6.2.0)
+  - PickerButton (0.1.4)
+  - PinCodeTextField (0.1.0)
+  - Starscream (3.0.6)
+  - SwiftPhoneNumberFormatter (1.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - GoogleMaps
+  - IQKeyboardManagerSwift
+  - PickerButton
+  - PinCodeTextField
+  - Starscream (~> 3.0.2)
+  - SwiftPhoneNumberFormatter
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - GoogleMaps
+    - IQKeyboardManagerSwift
+    - PickerButton
+    - PinCodeTextField
+    - Starscream
+    - SwiftPhoneNumberFormatter
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  GoogleMaps: fd5c9fa58871781b9fb94d4936f19c69fe60ce32
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  PickerButton: d92eba033a8cd678ff2e34f69b0ec3d7388e490a
+  PinCodeTextField: a3c39be58bde3ed1d6888d0fb1d88b0a4a2277cc
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  SwiftPhoneNumberFormatter: 0cc91f4daa06dd606a9defb21048a75c36a771a2
+
+PODFILE CHECKSUM: 43da5b9d8d438047bf5ff8ee0464504a7f4e7ebb
+
+COCOAPODS: 1.6.1
